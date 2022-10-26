@@ -4,8 +4,10 @@ body {
 nav {
     background-color: lightcyan;
     text-align: center;
-    height: 100px;
+    height: 90px;
+    padding-top: 50px;
 }
+
 header {
     background-color: lightpink;
 }
