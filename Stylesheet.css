@@ -4,3 +4,21 @@ body {
 nav {
     background-color: lightcyan;
 }
+header {
+    background-color: lightpink;
+}
+.apropos {
+    background-color: blueviolet;
+}
+.mes-services {
+    background-color: pink;
+}
+.my-skills {
+    background-color: lightcoral;
+}
+.my-projects {
+    background-color: lightsalmon;
+}
+.my-contact {
+    background-color: lightgrey;
+}
