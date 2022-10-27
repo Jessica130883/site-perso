@@ -30,7 +30,23 @@ button {
     margin-left: 45%;
 }
 .apropos {
+    text-align: center;
     background-color: blueviolet;
+    height: 600px;
+    padding-top: 40px;
+}
+.container-photo {
+    float: left;
+    margin-left: 30px;
+}
+img {
+    clip-path:ellipse(50% 50%);
+    height: 300px;
+    width: 300px;
+    
+}
+.texte-apropos {
+    text-align: justify;
 }
 .mes-services {
     background-color: pink;
