@@ -4,7 +4,7 @@ body {
 nav {
     background-color: lightcyan;
     text-align: center;
-    height: 90px;
+    height: 60px;
     padding-top: 50px;
 }
 .nav-link {
@@ -12,7 +12,22 @@ nav {
 }
 
 header {
-    background-color: lightpink;
+    background-color: black;
+    height: 400px;
+}
+h1 {
+    color: lightpink;
+    text-align: center;
+}
+.title-header {
+    color: white;
+    text-align: center;
+}
+button {
+    background-color: purple;
+    width: 150px;
+    height: 40px;
+    margin-left: 45%;
 }
 .apropos {
     background-color: blueviolet;
