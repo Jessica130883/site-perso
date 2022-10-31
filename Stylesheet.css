@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+html, body {
+    height: 100%;
+}
 nav {
     background-color: lightcyan;
     text-align: center;
@@ -112,7 +115,22 @@ li {
 }
 .my-contact {
     background-color: lightgrey;
-    height: 400px;
+    height: 600px;
     padding-top: 20px;
+}
+.phonenumber, .email {
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+}
+.phonenumber {
+    margin-left: 300px;
+}
+.email {
+    margin-left: 200px;
 }
 
