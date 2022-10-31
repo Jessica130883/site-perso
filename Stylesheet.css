@@ -71,6 +71,14 @@ img {
     height: 400px;
     padding-top: 20px;
 }
+li {
+    list-style: none;
+}
+.progressbar {
+    height: 24px;
+    width: 20%;
+    background-color: blue;
+}
 
 .title-projects {
     text-align: center;
