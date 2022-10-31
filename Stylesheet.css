@@ -40,7 +40,7 @@ button {
     float: left;
     margin-left: 30px;
 }
-img {
+.photo-profil {
     clip-path:ellipse(50% 50%);
     height: 300px;
     width: 300px;
@@ -87,6 +87,25 @@ li {
     background-color: lightsalmon;
     height: 400px;
     padding-top: 20px;
+}
+.photo-projet1{
+    height: 200px;
+    width: 25%;
+    float: left;
+    margin: 20px;
+    padding: 0 80px;
+}
+.photo-projet2 {
+    height: 200px;
+    width: 25%;
+    float: left;
+    margin: 20px;
+}
+.photo-projet3 {
+    height: 200px;
+    width: 25%;
+    float: left;
+    margin: 20px;
 }
 .title-contact {
     text-align: center;
